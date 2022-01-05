@@ -126,7 +126,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-my-element.d.ts
-my-element.d.ts.map
-my-element.js
-my-element.js.map
+build
